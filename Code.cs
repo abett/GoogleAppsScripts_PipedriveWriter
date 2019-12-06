@@ -1,6 +1,7 @@
 /**
- *  Please set the following script-properties before using:
+ *  Please set the following script-properties (https://developers.google.com/apps-script/reference/properties/properties.html) before using:
  *  - pipedriveApiToken
+ * That can be done from "File > Project Properties".  
 */
 
 
